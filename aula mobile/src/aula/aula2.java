@@ -8,5 +8,7 @@ public class aula2 {
        livro.isbn =  "123456789";
        livro.preco = 20.00;
        livro.autor = "collen hoover";
+
+       livro.dadosLivros();
     }
 }
