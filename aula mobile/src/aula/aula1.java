@@ -8,8 +8,9 @@ public class aula1 {
       double preco;
       
       void dadosLivros(){
-         System.out.println("nome do livro " + nome);
-         System.out.println("preço" + preco);
+         System.out.println("nome do livro: " + nome);
+         System.out.println("preço: " + preco);
+         System.out.println("descrição: " + descricao);
       }
    
 }
